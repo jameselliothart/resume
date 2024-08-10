@@ -2,7 +2,10 @@ jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [Git
 
 ## Summary
 
-Software Engineer with experience across multiple industries seeking to use demonstrated problem solving skills and 10+ years of professional experience in development and operations to help businesses execute on their strategic objectives. Experience working in an **Agile** environment building full-stack applications using **Python**, **.NET (C#/F#)**, and **JavaScript** with both **SQL** and **NoSQL** persistence. Strong background in using CI/CD pipeline tools (**Azure DevOps**, **Jenkins**, **Ansible**) to deploy multi-tier and microservice architecture applications. Passionate about process automation and continuously learning new skills.
+Software Engineer with experience across multiple industries seeking to use demonstrated problem solving skills and 10+ years of professional experience in development and operations to help businesses execute on their strategic objectives.
+Experience working in an **Agile** environment building full-stack applications using **Python**, **.NET (C#/F#)**, and **JavaScript** with both **SQL** and **NoSQL** persistence.
+Strong background in using CI/CD pipeline tools (**Azure DevOps**, **Jenkins**, **Ansible**) to deploy multi-tier and microservice architecture applications.
+Passionate about process automation and continuously learning new skills.
 
 ## Skills
 
