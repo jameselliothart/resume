@@ -10,13 +10,13 @@ Passionate about process automation and continuously learning new skills.
 ## Skills
 
 - **Languages**: .NET (C#/F#) | Python | JavaScript | Java | PowerShell | Go | PL/SQL | T-SQL
-- **Development Frameworks**:  ASP.NET Core | Python Flask | React | Node.js | Spring Boot | Bootstrap
+- **Development Frameworks**: ASP.NET Core | Python Flask | React | Node.js | Spring Boot | Bootstrap
 - **Databases**: Microsoft SQL Server | Oracle | PostgreSQL | Redis | MongoDB
 - **Messaging Systems**: AMPS | Redis Pub/Sub | RabbitMQ
 - **DevOps Tools**: Azure DevOps Services | Jenkins | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
 - **Cloud Platforms & Services**: MS Azure | Okta | Heroku
 - **Configuration Management**: Chef | Ansible | ARM Templates
-- **Application Monitoring**:  New Relic | PRTG
+- **Application Monitoring**: New Relic | PRTG
 - **Others**: Agile | Domain Driven Design | TDD | RESTful APIs
 
 ## Projects
