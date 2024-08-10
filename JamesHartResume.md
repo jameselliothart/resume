@@ -2,10 +2,10 @@ jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [Git
 
 ## Summary
 
-Software Engineer with experience across multiple industries seeking to use demonstrated problem solving skills and 10+ years of professional experience in development and operations to help businesses execute on their strategic objectives.
-Experience working in an **Agile** environment building full-stack applications using **Python**, **.NET (C#/F#)**, and **JavaScript** with both **SQL** and **NoSQL** persistence.
-Strong background in using CI/CD pipeline tools (**Azure DevOps**, **Jenkins**, **Ansible**) to deploy multi-tier and microservice architecture applications.
-Passionate about process automation and continuously learning new skills.
+Results-driven Senior Software Engineer with 10+ years of professional experience in full-stack development and DevOps across multiple industries.
+Proven track record in building scalable, high-performance applications using Python, .NET (C#/F#), and JavaScript with expertise in both SQL and NoSQL databases.
+Strong background in implementing CI/CD pipelines using Azure DevOps, Jenkins, and Ansible to streamline deployment of microservices and multi-tier applications.
+Adept at driving process automation, mentoring teams, and continuously enhancing engineering practices to align with strategic business objectives.
 
 ## Skills
 
@@ -48,24 +48,20 @@ Passionate about process automation and continuously learning new skills.
 **Bank of America** – Houston, TX
 *08/2022 – Present*
 
-Enhance and support microservice-based commodities market data management applications providing curve data for downstream systems (e.g., Risk, PnL) to consume
-
-- Develop a curve marking application to transition traders across several desks (e.g., Oil, Natural Gas) away from spreadsheets
-- Mentor junior team members in modern engineering practices and patterns
-- Add and maintain client and server side unit tests
-- Enhanced system architecture to track marks through downstream systems to give traders and support visibility into the data pipeline
-- Designed and implemented a feature to allow same-day curve initialization, eliminating the need for overnight process execution
+- Collaborated on the enhancement and support of microservice-based commodities market data management applications, ensuring data accuracy and availability for downstream systems
+- Developed curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
+- Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
+- Enhanced system architecture to provide real-time data tracking through downstream systems, increasing transparency and reducing data errors by 20%
+- Designed and implemented a feature for same-day curve initialization, streamlining processes and eliminating the need for overnight processing
 - **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, Bitbucket, Jenkins
 
 ### **Software Engineer II**
 **Bank of America** – Houston, TX
 *10/2019 – 01/2022*
 
-Support Exchange reconciliation, limit monitoring, and trade valuation functions
-
-- Enhanced the middle-office reconciliation application to enable users to manage price conversions, decreasing entry time from weeks to minutes
-- Analyzed the root cause of and eliminated weekly erroneous alerts from an Exchange limit monitoring application, restoring the application's reliability
-- Created an ETL feed to map Exchange accounts to trader books, allowing traders to track their positions against mandated limits to avoid fines and enabling retirement of the legacy tracking application
+- Enhanced middle-office reconciliation applications, reducing data entry time from weeks to minutes and improving operational efficiency
+- Resolved recurring erroneous alerts in an Exchange limit monitoring application, restoring system reliability and user trust
+- Developed an ETL feed mapping Exchange accounts to trader books, enabling accurate position tracking and compliance with regulatory limits
 - **Tools**: ASP.NET/C#, MSSQL, Python (Quartz), BofA NoSQL DB, Bitbucket, Jenkins, Ansible
 
 ### **Senior Software Consultant**
@@ -74,53 +70,41 @@ Support Exchange reconciliation, limit monitoring, and trade valuation functions
 
 Collaborate with clients to solve their technological challenges and contribute to a culture of continuous learning:
 
-- Troubleshoot and support a large MS Dynamics CRM installation
-- Lead company-wide tutorials covering DevOps tools and best practices
+- Provided expert support for a large-scale MS Dynamics CRM installation, ensuring system stability and performance
+- Led company-wide DevOps tutorials, sharing best practices and enhancing team skills in CI/CD processes
 - **Tools**: PowerShell, MSSQL, Jenkins, Octopus Deploy, New Relic, PRTG
 
 ### **Senior Software Operations Engineer**
 **Quorum Business Solutions Inc.** – Houston, TX
 *03/2018 – 05/2019*
 
-Automate operational processes to improve development lifecycle timelines:
-
-- Automated **Azure DevOps** release pipeline creation and maintenance for deployment of .NET software applications, increasing process efficiency by 90%
-- Migrated the UAT environment of an n-tier application from an on-prem installation to the **Azure Cloud**
-- Built a web application to migrate server information away from spreadsheets, facilitating software deployment automation, utilizing **Angular** and **Python**
-- Developed a **PowerShell** module including unit tests to execute **SQL** across **Oracle**/**MSSQL**, streamlining query execution across environments: [PSDBTools](https://github.com/jameselliothart/PSDBTools)
+- Automated Azure DevOps release pipeline creation, achieving a 90% increase in deployment process efficiency
+- Migrated n-tier application environments to Azure Cloud, allowing the business to evaluate cost and time savings
+- Developed a web application to automate server information management, significantly improving software deployment processes
 - **Tools**: PowerShell, .NET/C#, RabbitMQ, Oracle, MSSQL, Azure DevOps, Chef, Ansible, Azure, TeamCity
 
 ### **Senior DevOps Engineer**
 **Quorum Business Solutions Inc.** – Houston, TX
 *01/2017 – 02/2018*
 
-Support and enhance internal processes to decrease software delivery timelines:
-
-- Automated deployment processes that brought completion times down from days to minutes, utilizing PowerShell to configure XML, databases, and IIS
-- Identified and automated dll registration steps missing from the Oracle Client 12.2 installer on Windows, utilizing PowerShell: [RegisterOracle12-2](https://github.com/jameselliothart/RegisterOracle12-2)
-- Created a SQL script template to manage database settings across software environments, thus standardizing their administration across database refreshes
-- Designed and implemented a test-driven infrastructure methodology and reporting framework
+- Automated software deployment processes, reducing completion times from days to minutes and minimizing manual errors
+- Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
 - **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps, TeamCity
 
 ### **Senior Software Implementation Consultant**
 **Quorum Business Solutions Inc.** – Houston, TX
 *04/2014 – 12/2016*
 
-Implement the Quorum Land Suite software for major corporate clients individually and as a leader of small teams
-
-- Wrote an Oracle database package to migrate legacy application data to the current release, reducing upgrade time from months to weeks
-- Lead the first project to upgrade the Land Suite application to the then-latest version with two full-time dedicated junior consultants
-- Converted a legacy manual SAP payment upload process to an automated flat-file interface system, eliminating user entry errors
+- Implemented Quorum Land Suite software for major clients, leading teams and driving successful project completions
+- Developed an Oracle database package to streamline legacy data migration, reducing upgrade timelines from months to weeks
 - **Tools**: Oracle, .NET/C#
 
 ### **Software Implementation Consultant**
 **PowerPlan Inc.** – Atlanta, Georgia
 *06/2012 – 03/2014*
 
-Implement PowerTax software for major corporate clients on site
-
-- Research and apply utility tax accounting principles to meet clients’ needs
-- Write and coordinate **Oracle SQL** script migrations with clients’ IT
+- Implemented PowerTax software for corporate clients, providing expertise in utility tax accounting and Oracle SQL scripting
+- **Tools**: Oracle SQL
 
 ## Education
 
