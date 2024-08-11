@@ -121,15 +121,20 @@ h3 {
 
 # James Hart
 
+<div class="contact-info">
 jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [GitHub Repos](https://github.com/jameselliothart) | [GitHub Blog](https://jameselliothart.github.io)
+</div>
 
+<div class="summary">
 ## Summary
 
 Results-driven Senior Software Engineer with 10+ years of professional experience in full-stack development and DevOps across multiple industries.
 Proven track record in building scalable, high-performance applications using Python, .NET (C#/F#), and JavaScript with expertise in both SQL and NoSQL databases.
 Strong background in implementing CI/CD pipelines using Azure DevOps, Jenkins, and Ansible to streamline deployment of microservices and multi-tier applications.
 Adept at driving process automation, mentoring teams, and continuously enhancing engineering practices to align with strategic business objectives.
+</div>
 
+<div class="skills">
 ## Skills
 
 - **Languages**: .NET (C#/F#) | Python | JavaScript | Java | PowerShell | Go | PL/SQL | T-SQL
@@ -141,30 +146,26 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - **Configuration Management**: Chef | Ansible | ARM Templates
 - **Application Monitoring**: New Relic | PRTG
 - **Others**: Agile | Domain Driven Design | TDD | RESTful APIs
+</div>
 
+<div class="projects">
 ## Projects
 
-- Feldspar - a microservice-based market data visualizer served by **Nginx** with websocket architecture in **Node.js**, **ReactJS**, **C#**, and **Java** utilizing **Redis** pub/sub and caching - [my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/) (deployed as a multi-container app service with **Docker** Compose)
-- **Python/JavaScript** - Advent of Code solver - my repo: [AoCSolver](https://github.com/jameselliothart/AoCSolver)
-- **.NET** - a comparison of the C# MediatR library with F# Discriminated Unions - my repo: [MediatrVsDU](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html)
-- Advent of Code solutions: [my repo](https://github.com/jameselliothart/AdventOfCode2020) (cf. [adventofcode.com](https://adventofcode.com))
-- Ticket management solutions inspired by Jira
-  - **Python/Bootstrap/PostgreSQL/Okta** - my repo: [pytickets](https://github.com/jameselliothart/pytickets)
-  - **C#/MSSQL/Docker/Azure** - my repo: [TicketPusher](https://github.com/jameselliothart/TicketPusher)
-  - **Go/MongoDB** - my repo: [gotickets](https://github.com/jameselliothart/gotickets)
+</div>
 
+<div class="achievements">
 ## Achievements
 
-### **[Project Name]**
-- Description: [Brief description of the project and its purpose].
-- Technologies: [Languages, frameworks, tools used].
-- Achievements: [Key achievements, e.g., "Developed a feature that improved user retention by 15%"].
+</div>
 
+<div class="recognitions">
 ## Recognitions
 
 - Pluralsight’s [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
 - National Hispanic Merit Scholar
+</div>
 
+<div class="experience">
 ## Experience
 
 ### **Software Engineer III**
@@ -228,7 +229,9 @@ Collaborate with clients to solve their technological challenges and contribute 
 
 - Implemented PowerTax software for corporate clients, providing expertise in utility tax accounting and Oracle SQL scripting
 - **Tools**: Oracle SQL
+</div>
 
+<div class="education">
 ## Education
 
 ### **Bachelor of Arts in Mathematics, Minor in Computational and Applied Math**
@@ -236,6 +239,9 @@ Collaborate with clients to solve their technological challenges and contribute 
 *08/2008 – 05/2012*
 
 GPA: 3.8, Cum Laude
+</div>
 
+<div class="references">
 ## References
 Available upon request.
+</div>
