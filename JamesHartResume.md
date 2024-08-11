@@ -270,9 +270,10 @@ Specializing in Python, .NET, and JavaScript.
 ## Education
 
 <div class="degree">Bachelor of Arts in Mathematics, Minor in Computational and Applied Math</div>
-
-**Rice University** – Houston, Texas
-*08/2008 – 05/2012*
+<p style="text-align:left;">Rice University – Houston, Texas
+  <span style="float:right;">*08/2008 – 05/2012*
+  </span>
+</p>
 
 - GPA: 3.8, Cum Laude
 - Publication: [*Energy-minimizing unit vector fields*](https://msp.org/involve/2010/3-4/involve-v3-n4-p.pdf)
