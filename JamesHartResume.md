@@ -117,6 +117,12 @@ section {
     margin-bottom: 20px;
 }
 
+.experience .job-title {
+    font-weight: bold;
+    font-size: 14px;
+    color: #333;
+}
+
 .experience ul {
     margin-left: 20px;
 }
@@ -208,7 +214,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 <div class="experience">
 ## Experience
 
-### **Software Engineer III**
+<div class="job-title">Software Engineer III</div>
 **Bank of America** – Houston, TX
 *08/2022 – Present*
 
@@ -219,7 +225,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - Designed and implemented a feature for same-day curve initialization, streamlining processes and eliminating the need for overnight processing
 - **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
 
-### **Software Engineer II**
+<div class="job-title">Software Engineer II</div>
 **Bank of America** – Houston, TX
 *10/2019 – 01/2022*
 
@@ -228,7 +234,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - Developed an ETL feed mapping Exchange accounts to trader books, enabling accurate position tracking and compliance with regulatory limits
 - **Tools**: ASP.NET/C#, MSSQL, Python (Quartz), BofA NoSQL DB, Bitbucket, Jenkins, Ansible
 
-### **Senior Software Consultant**
+<div class="job-title">Senior Software Consultant</div>
 **Credera** – Houston, TX
 *05/2019 – 10/2019*
 
@@ -236,7 +242,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - Led company-wide DevOps tutorials, sharing best practices and enhancing team skills in CI/CD processes
 - **Tools**: PowerShell, MSSQL, Jenkins, Octopus Deploy, New Relic, PRTG
 
-### **Senior Software Operations Engineer**
+<div class="job-title">Senior Software Operations Engineer</div>
 **Quorum Business Solutions Inc.** – Houston, TX
 *03/2018 – 05/2019*
 
@@ -245,7 +251,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - Developed a web application to automate server information management, significantly improving software deployment processes
 - **Tools**: PowerShell, .NET/C#, RabbitMQ, Oracle, MSSQL, Azure DevOps, Chef, Ansible, Azure, TeamCity
 
-### **Senior DevOps Engineer**
+<div class="job-title">Senior DevOps Engineer</div>
 **Quorum Business Solutions Inc.** – Houston, TX
 *01/2017 – 02/2018*
 
@@ -253,7 +259,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
 - **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps, TeamCity
 
-### **Senior Software Implementation Consultant**
+<div class="job-title">Senior Software Implementation Consultant</div>
 **Quorum Business Solutions Inc.** – Houston, TX
 *04/2014 – 12/2016*
 
@@ -261,7 +267,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - Developed an Oracle database package to streamline legacy data migration, reducing upgrade timelines from months to weeks
 - **Tools**: Oracle, .NET/C#
 
-### **Software Implementation Consultant**
+<div class="job-title">Software Implementation Consultant</div>
 **PowerPlan Inc.** – Atlanta, Georgia
 *06/2012 – 03/2014*
 
