@@ -43,6 +43,11 @@ h3 {
     color: #666;
 }
 
+/* Section Styling */
+section {
+    margin-bottom: 20px;
+}
+
 /* Summary Section */
 .summary {
     background-color: #f9f9f9;
