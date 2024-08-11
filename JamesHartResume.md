@@ -98,16 +98,6 @@ section {
     margin-bottom: 6px;
 }
 
-/* Recognitions Section */
-.recognitions ul {
-    list-style: none;
-    padding: 0;
-}
-
-.recognitions li {
-    margin-bottom: 6px;
-}
-
 /* Experience Section */
 .experience {
     margin-bottom: 20px;
@@ -200,18 +190,14 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 </div>
 
 <div class="achievements">
-## Achievements
+## Honors and Achievements
 
 - Led the successful transition of a key segment of users from spreadsheet-based processes to a robust curve marking application, by developing necessary features, providing user training and ongoing support, resulting in increased efficiency, improved data accuracy, and enhanced user satisfaction.
 - Spearheaded the development of key features to retire a legacy Exchange limit tracking application, effectively coordinating with cross-functional teams and delivering the project under a tight year-end deadline, resulting in a seamless transition, reduced maintenance costs, and improved system performance.
 - Implemented an automated deployment pipeline that reduced deployment time by 90% and eliminated manual errors, leading to a more efficient development lifecycle.
-</div>
-
-<div class="recognitions">
-## Recognitions
-
-- Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
-- National Hispanic Merit Scholar
+- Recognized twice, as a senior member on a small team, at a company level for having the greatest team impact in improving company-wide development processes
+- Spot-lighted team member for best release documentation
+- Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
 </div>
 
 <div class="experience">
@@ -287,6 +273,7 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 *08/2008 – 05/2012*
 
 - GPA: 3.8, Cum Laude
+- National Hispanic Merit Scholar
 - Publication: *Energy-minimizing unit vector fields* - [Involve: A Journal of Mathematics (Vol. 3, No. 4, 2010)](https://msp.org/involve/2010/3-4/involve-v3-n4-p.pdf)
 - Trustee Distinguished Scholarship
 </div>
