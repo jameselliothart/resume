@@ -129,6 +129,7 @@ section {
 .references {
     font-size: 12px;
     color: #666;
+    text-align: center;
 }
 
 </style>
@@ -278,6 +279,5 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 </div>
 
 <div class="references">
-## References
-Available upon request.
+Prior experience references available upon request.
 </div>
