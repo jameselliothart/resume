@@ -42,7 +42,7 @@ section {
 /* Summary Section */
 .summary {
     background-color: #f9f9f9;
-    padding: 12px;
+    padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
     text-align: center;
