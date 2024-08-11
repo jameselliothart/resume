@@ -164,6 +164,102 @@ Specializing in Python, .NET, and JavaScript.
 - **Messaging Systems**: AMPS | Redis Pub/Sub | RabbitMQ | RESTful APIs
 </div>
 
+<div class="achievements">
+## Honors & Achievements
+- Built an Angular web application backed by a Python-Flask API middle tier to track server information in order to support infrastructure and application deployment automation and visibility
+- Developed Pester scripts utilized by company-wide development teams to validate application configurations for software upgrades, reducing manual effort by 99% (2 days to 30 seconds) and minimizing troubleshooting time
+- Automated Hyper-V Windows VM creation and configuration through PowerShell and Chef, reducing setup time by 98% (2-4 days to 30 minutes)
+- Automated software deployment processes via PowerShell including inserting XML data into a database and configuration of IIS websites and application pools, decreasing setup time by 98% (4 hours to 5 minutes)
+- Recognized twice at the company level for exceptional impact as a senior member of a small team, significantly improving company-wide development processes and setting new standards for efficiency and collaboration.
+- Recognized for excellence in managing complex release processes by ensuring comprehensive and compliant documentation that met external regulatory requirements, streamlining workflows, and enhancing team efficiency.
+- Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
+</div>
+
+<div class="experience">
+## Experience
+
+<div class="job-title">Software Engineer III</div>
+<p style="text-align:left;">**Bank of America** – Houston, TX
+  <span style="float:right;">*02/2022 – Present*
+  </span>
+</p>
+
+- Enhanced and supported microservice-based commodities market data management applications, ensuring data accuracy and availability for downstream systems
+- Developed curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
+- Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
+- Improved system architecture to provide real-time data tracking through downstream systems, increasing transparency and reducing data errors by 20%
+- Led the successful transition of a key segment of users from spreadsheets to a robust curve marking application, resulting in increased efficiency and data accuracy
+- Designed and implemented a feature for same-day curve initialization, streamlining processes and eliminating the need for overnight processing
+- **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
+
+<div class="job-title">Software Engineer II</div>
+<p style="text-align:left;">**Bank of America** – Houston, TX
+  <span style="float:right;">*10/2019 – 01/2022*
+  </span>
+</p>
+
+- Spearheaded the development of key features to retire a legacy application, coordinating with cross-functional teams and delivering the project under a tight year-end deadline, resulting in reduced maintenance costs and improved system performance
+- Enhanced middle-office reconciliation applications, reducing data entry time from weeks to minutes and improving operational efficiency
+- Resolved recurring erroneous alerts in an Exchange limit monitoring application, restoring system reliability and user trust
+- Developed an ETL feed mapping Exchange accounts to trader books, enabling accurate position tracking and compliance with regulatory limits
+- **Tools**: ASP.NET/C#, MSSQL, Python (Quartz), BofA NoSQL DB, Bitbucket, Jenkins, Ansible
+
+<div class="job-title">Senior Software Consultant</div>
+<p style="text-align:left;">**Credera** – Houston, TX
+  <span style="float:right;">*05/2019 – 10/2019*
+  </span>
+</p>
+
+- Collaborated with clients to solve their biggest technological challenges and contribute to a culture of continuous learning and improvement
+- Supported a large-scale Microsoft Dynamics CRM installation and surrounding custom applications, ensuring system stability and performance
+- Led company-wide tutorial labs covering DevOps tools, concepts, best practices and enhancing team skills in CI/CD processes for junior members
+- **Tools**: PowerShell, MSSQL, Jenkins, Octopus Deploy, New Relic, PRTG
+
+<div class="job-title">Senior Software Operations Engineer</div>
+<p style="text-align:left;">**Quorum Business Solutions Inc.** – Houston, TX
+  <span style="float:right;">*03/2018 – 05/2019*
+  </span>
+</p>
+
+- Managed operational processes to decrease development life cycle timelines under an agile software development methodology
+- Developed tools, built scripts, and created documentation used for client-side web server and .NET framework based software installations
+- Automated Azure DevOps release pipeline creation for deployment of software applications, increasing process efficiency by 90%
+- Migrated n-tier application environments to Azure Cloud, allowing the business to evaluate cost and time savings
+- Developed a web application to automate server information management, significantly improving software deployment processes
+- **Tools**: PowerShell, .NET/C#, RabbitMQ, Oracle, MSSQL, Azure DevOps Services, Chef, Ansible, Azure, TeamCity
+
+<div class="job-title">Senior DevOps Engineer</div>
+<p style="text-align:left;">**Quorum Business Solutions Inc.** – Houston, TX
+  <span style="float:right;">*01/2017 – 02/2018*
+  </span>
+</p>
+
+- Automated and standardized internal software deployment processes, reducing completion times from days to minutes and speeding up software delivery timelines
+- Supported and enhanced internal processes, minimizing manual errors and improving process reliability
+- Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
+- Deploy and troubleshoot code and database installations in clients’ non-Production and Production environments
+- **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps Services, TeamCity
+
+<div class="job-title">Senior Software Implementation Consultant</div>
+<p style="text-align:left;">**Quorum Business Solutions Inc.** – Houston, TX
+  <span style="float:right;">*04/2014 – 12/2016*
+  </span>
+</p>
+
+- Implemented Quorum Land Suite software upgrade for major clients, leading small teams across multiple successful project completions
+- Managed business and IT expectations throughout the project lifecycle from internal development to Production cutover and transition to long-term product software maintenance
+- Developed an Oracle database package to streamline legacy data migration, reducing upgrade timelines from months to weeks
+- **Tools**: Oracle, .NET/C#
+
+<div class="job-title">Software Implementation Consultant</div>
+<p style="text-align:left;">**PowerPlan Inc.** – Atlanta, Georgia
+  <span style="float:right;">*06/2012 – 03/2014*
+  </span>
+</p>
+
+- Implemented PowerTax software for major corporate clients, providing expertise in utility tax accounting and Oracle SQL scripting
+- Coordinate script migrations and database management with clients’ IT
+- **Tools**: Oracle SQL
 </div>
 
 <div class="projects">
@@ -189,81 +285,6 @@ Specializing in Python, .NET, and JavaScript.
     - Utilizes **GitHub Actions** to push containers to **Azure Container Registry (ACR)**
   - [pytickets](https://github.com/jameselliothart/pytickets): Python, Flask, Bootstrap, PostgreSQL, Okta, Heroku
   - [gotickets](https://github.com/jameselliothart/gotickets): Go, MongoDB, HTML
-</div>
-
-<div class="achievements">
-## Honors and Achievements
-
-- Led the successful transition of a key segment of users from spreadsheet-based processes to a robust curve marking application, by developing necessary features, providing user training and ongoing support, resulting in increased efficiency, improved data accuracy, and enhanced user satisfaction.
-- Spearheaded the development of key features to retire a legacy Exchange limit tracking application, effectively coordinating with cross-functional teams and delivering the project under a tight year-end deadline, resulting in a seamless transition, reduced maintenance costs, and improved system performance.
-- Implemented an automated deployment pipeline that reduced deployment time by 90% and eliminated manual errors, leading to a more efficient development lifecycle.
-- Recognized twice at the company level for exceptional impact as a senior member of a small team, significantly improving company-wide development processes and setting new standards for efficiency and collaboration.
-- Recognized for excellence in managing complex release processes by ensuring comprehensive and compliant documentation that met external regulatory requirements, streamlining workflows, and enhancing team efficiency.
-- Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
-</div>
-
-<div class="experience">
-## Experience
-
-<div class="job-title">Software Engineer III</div>
-**Bank of America** – Houston, TX
-*02/2022 – Present*
-
-- Enhanced and supported microservice-based commodities market data management applications, ensuring data accuracy and availability for downstream systems
-- Developed curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
-- Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
-- Improved system architecture to provide real-time data tracking through downstream systems, increasing transparency and reducing data errors by 20%
-- Designed and implemented a feature for same-day curve initialization, streamlining processes and eliminating the need for overnight processing
-- **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
-
-<div class="job-title">Software Engineer II</div>
-**Bank of America** – Houston, TX
-*10/2019 – 01/2022*
-
-- Enhanced middle-office reconciliation applications, reducing data entry time from weeks to minutes and improving operational efficiency
-- Resolved recurring erroneous alerts in an Exchange limit monitoring application, restoring system reliability and user trust
-- Developed an ETL feed mapping Exchange accounts to trader books, enabling accurate position tracking and compliance with regulatory limits
-- **Tools**: ASP.NET/C#, MSSQL, Python (Quartz), BofA NoSQL DB, Bitbucket, Jenkins, Ansible
-
-<div class="job-title">Senior Software Consultant</div>
-**Credera** – Houston, TX
-*05/2019 – 10/2019*
-
-- Provided expert support for a large-scale MS Dynamics CRM installation, ensuring system stability and performance
-- Led company-wide DevOps tutorials, sharing best practices and enhancing team skills in CI/CD processes
-- **Tools**: PowerShell, MSSQL, Jenkins, Octopus Deploy, New Relic, PRTG
-
-<div class="job-title">Senior Software Operations Engineer</div>
-**Quorum Business Solutions Inc.** – Houston, TX
-*03/2018 – 05/2019*
-
-- Automated Azure DevOps release pipeline creation, achieving a 90% increase in deployment process efficiency
-- Migrated n-tier application environments to Azure Cloud, allowing the business to evaluate cost and time savings
-- Developed a web application to automate server information management, significantly improving software deployment processes
-- **Tools**: PowerShell, .NET/C#, RabbitMQ, Oracle, MSSQL, Azure DevOps Services, Chef, Ansible, Azure, TeamCity
-
-<div class="job-title">Senior DevOps Engineer</div>
-**Quorum Business Solutions Inc.** – Houston, TX
-*01/2017 – 02/2018*
-
-- Automated software deployment processes, reducing completion times from days to minutes and minimizing manual errors
-- Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
-- **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps Services, TeamCity
-
-<div class="job-title">Senior Software Implementation Consultant</div>
-**Quorum Business Solutions Inc.** – Houston, TX
-*04/2014 – 12/2016*
-
-- Implemented Quorum Land Suite software for major clients, leading teams and driving successful project completions
-- Developed an Oracle database package to streamline legacy data migration, reducing upgrade timelines from months to weeks
-- **Tools**: Oracle, .NET/C#
-
-<div class="job-title">Software Implementation Consultant</div>
-**PowerPlan Inc.** – Atlanta, Georgia
-*06/2012 – 03/2014*
-
-- Implemented PowerTax software for corporate clients, providing expertise in utility tax accounting and Oracle SQL scripting
-- **Tools**: Oracle SQL
 </div>
 
 <div class="education">
