@@ -78,9 +78,12 @@ section {
     padding: 0;
 }
 
+.projects li {
+    margin-bottom: 3px;
+}
+
 .projects .project-title {
     font-weight: bold;
-    font-size: 14px;
 }
 
 /* Achievements Section */
@@ -96,7 +99,7 @@ section {
 
 .experience .job-title {
     font-weight: bold;
-    font-size: 14px;
+    font-size: 12px;
     color: #333;
 }
 
@@ -105,18 +108,21 @@ section {
 }
 
 .experience li {
-    margin-bottom: 6px;
+    margin-bottom: 3px;
 }
+
+.experience p {
+    margin-top: 3px;
+}
+
 
 /* Education Section */
 .education {
     margin-bottom: 20px;
 }
 
-.education .degree {
-    font-weight: bold;
-    font-size: 14px;
-    color: #333;
+.education p {
+    margin-top: 3px;
 }
 
 /* References Section */
