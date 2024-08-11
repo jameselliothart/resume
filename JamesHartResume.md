@@ -210,8 +210,6 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 **Credera** – Houston, TX
 *05/2019 – 10/2019*
 
-Collaborate with clients to solve their technological challenges and contribute to a culture of continuous learning:
-
 - Provided expert support for a large-scale MS Dynamics CRM installation, ensuring system stability and performance
 - Led company-wide DevOps tutorials, sharing best practices and enhancing team skills in CI/CD processes
 - **Tools**: PowerShell, MSSQL, Jenkins, Octopus Deploy, New Relic, PRTG
