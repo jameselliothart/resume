@@ -11,27 +11,20 @@ body {
 
 /* Header */
 h1 {
-    font-size: 28px;
+    font-size: 20px;
     color: #2e6da4;
     text-align: center;
-    margin-bottom: 0;
-}
-
-h2, h3 {
-    margin-bottom: 8px;
-    color: #2e6da4;
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 4px;
+    margin: 0;
 }
 
 h2 {
-    font-size: 22px;
-    margin-top: 22px;
-}
-
-h3 {
-    font-size: 16px;
+    margin-bottom: 8px;
+    color: #2e6da4;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 3px;
+    font-size: 12px;
     margin-top: 16px;
+    text-transform: uppercase;
 }
 
 /* Contact Information */
