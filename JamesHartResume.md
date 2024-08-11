@@ -146,9 +146,8 @@ jeh@duck.com
 <div class="summary">
 Senior software engineer with 10+ years of professional experience in full-stack development and DevOps practices in agile environments across multiple industries.
 Proven track record in building a wide range of scalable, high-performance applications and improving on existing system architecture.
-Strong background in implementing organized CI/CD pipelines to streamline deployment of microservices and multi-tier applications.
-Adept at driving process automation, mentoring teams, and continuously enhancing engineering practices to align with strategic business objectives.
-Specializing in Python, .NET (C#/F#), and JavaScript.
+Extensive automation experience and strong background implementing CI/CD pipelines and secure Cloud hosted environments to streamline deployment of microservices and multi-tier applications.
+Specializing in Python, .NET, and JavaScript.
 </div>
 
 <div class="skills">
