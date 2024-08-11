@@ -179,7 +179,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 <div class="recognitions">
 ## Recognitions
 
-- Pluralsight’s [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
+- Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
 - National Hispanic Merit Scholar
 </div>
 
