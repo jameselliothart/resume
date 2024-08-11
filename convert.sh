@@ -1,1 +1,1 @@
-pandoc ./JamesHartResume.md -o JamesHartResume.pdf --pdf-engine=wkhtmltopdf --metadata title="James Hart"
+pandoc ./JamesHartResume.md --pdf-engine=wkhtmltopdf -o JamesHartResume.pdf
