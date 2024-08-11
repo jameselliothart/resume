@@ -222,7 +222,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 
 <div class="job-title">Software Engineer III</div>
 **Bank of America** – Houston, TX
-*08/2022 – Present*
+*02/2022 – Present*
 
 - Collaborated on the enhancement and support of microservice-based commodities market data management applications, ensuring data accuracy and availability for downstream systems
 - Developed curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
