@@ -118,6 +118,9 @@ h3 {
 }
 
 </style>
+
+# James Hart
+
 jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [GitHub Repos](https://github.com/jameselliothart) | [GitHub Blog](https://jameselliothart.github.io)
 
 ## Summary
