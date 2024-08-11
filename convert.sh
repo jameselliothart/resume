@@ -1,1 +1,1 @@
-pandoc ./JamesHartResume.md --pdf-engine=wkhtmltopdf -o JamesHartResume.pdf
+pandoc ./JamesHartResume.md --pdf-engine=wkhtmltopdf -o "pdf/JamesHartResume_$(date +%Y%m%d).pdf"
