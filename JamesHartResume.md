@@ -129,8 +129,8 @@ jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [Git
 ## Summary
 
 Results-driven Senior Software Engineer with 10+ years of professional experience in full-stack development and DevOps across multiple industries.
-Proven track record in building scalable, high-performance applications using Python, .NET (C#/F#), and JavaScript with expertise in both SQL and NoSQL databases.
-Strong background in implementing CI/CD pipelines using Azure DevOps, Jenkins, and Ansible to streamline deployment of microservices and multi-tier applications.
+Proven track record in building scalable, high-performance applications using **Python**, **.NET (C#/F#)**, and **JavaScript** with expertise in both **SQL** and **NoSQL** databases.
+Strong background in implementing CI/CD pipelines using **Azure DevOps**, **Jenkins**, and **Ansible** to streamline deployment of microservices and multi-tier applications.
 Adept at driving process automation, mentoring teams, and continuously enhancing engineering practices to align with strategic business objectives.
 </div>
 
