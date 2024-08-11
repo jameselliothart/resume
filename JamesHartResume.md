@@ -202,7 +202,7 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 <div class="achievements">
 ## Achievements
 
-- Led the transition of a key set of users from spreadsheet-based processes to a robust curve marking application by developing necessary features, providing training and support, resulting in increased efficiency and data accuracy, and enhanced user satisfaction.
+- Led the successful transition of a key segment of users from spreadsheet-based processes to a robust curve marking application, by developing necessary features, providing user training and ongoing support, resulting in increased efficiency, improved data accuracy, and enhanced user satisfaction.
 - Spearheaded the development of key features to retire a legacy Exchange limit tracking application, effectively coordinating with cross-functional teams and delivering the project under a tight year-end deadline, resulting in a seamless transition, reduced maintenance costs, and improved system performance.
 - Implemented an automated deployment pipeline that reduced deployment time by 90% and eliminated manual errors, leading to a more efficient development lifecycle.
 </div>
