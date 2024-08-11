@@ -87,6 +87,11 @@ section {
     padding: 0;
 }
 
+.projects .project-title {
+    font-weight: bold;
+    font-size: 14px;
+}
+
 /* Achievements Section */
 .achievements ul {
     list-style: none;
@@ -163,16 +168,21 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 <div class="projects">
 ## Projects
 
-- Feldspar: a microservice-based market data visualizer with websocket architecture ([my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/))
+- <div class="project-title">Feldspar</div>
+  - Microservice-based market data visualizer with websocket architecture ([my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/))
   - **Technologies**: docker, Node.js, ReactJS, C#, Java, nginx, Redis pub/sub and caching
   - Deployed as a multi-container **Azure App Service** with **Docker Compose**
-- MediatrVsDU: a comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
+- <div class="project-title">MediatrVsDU</div>
+  - A comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
   - **Technologies**: .NET, MediatR
-- Advent of Code solutions: solutions to select Advent of Code (cf. [adventofcode.com](https://adventofcode.com)) puzzles ([my repo](https://github.com/jameselliothart/AdventOfCode2020))
+- <div class="project-title">Advent of Code solutions</div>
+  - Solutions to select Advent of Code (cf. [adventofcode.com](https://adventofcode.com)) puzzles ([my repo](https://github.com/jameselliothart/AdventOfCode2020))
   - **Technologies**: .NET, Python
-- AoCSolver: a website to solve Advent of Code puzzles ([my repo](https://github.com/jameselliothart/AoCSolver))
+- <div class="project-title">AoCSolver</div>
+  - A website to solve Advent of Code puzzles ([my repo](https://github.com/jameselliothart/AoCSolver))
   - **Technologies**: Python, Javascript, Heroku
-- Ticket management solutions inspired by Jira using different technology stacks:
+- <div class="project-title">Ticket management sites</div>
+  - Websites inspired by Jira using different technology stacks
   - [TicketPusher](https://github.com/jameselliothart/TicketPusher): C#, Blazor, Web API, EF Core, Azure SQL Database, Docker, Okta
     - Deployed as a multi-container **Azure App Service** with **Docker Compose**
     - Utilizes **GitHub Actions** to push containers to **Azure Container Registry (ACR)**
