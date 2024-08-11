@@ -195,8 +195,8 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 - Led the successful transition of a key segment of users from spreadsheet-based processes to a robust curve marking application, by developing necessary features, providing user training and ongoing support, resulting in increased efficiency, improved data accuracy, and enhanced user satisfaction.
 - Spearheaded the development of key features to retire a legacy Exchange limit tracking application, effectively coordinating with cross-functional teams and delivering the project under a tight year-end deadline, resulting in a seamless transition, reduced maintenance costs, and improved system performance.
 - Implemented an automated deployment pipeline that reduced deployment time by 90% and eliminated manual errors, leading to a more efficient development lifecycle.
-- Recognized twice, as a senior member on a small team, at a company level for having the greatest team impact in improving company-wide development processes
-- Spot-lighted team member for best release documentation
+- Twice recognized at the company level for exceptional impact as a senior member of a small team, significantly improving company-wide development processes and setting new standards for efficiency and collaboration.
+- Recognized for excellence in managing complex release processes by ensuring comprehensive and compliant documentation that met external regulatory requirements, streamlining workflows, and enhancing team efficiency.
 - Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
 </div>
 
