@@ -195,7 +195,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
   - **Technologies**: Python, Javascript, Heroku
 - <div class="project-title">Ticket management sites</div>
   - Websites inspired by Jira using different technology stacks
-  - [TicketPusher](https://github.com/jameselliothart/TicketPusher): C#, Blazor, Web API, EF Core, Azure SQL Database, Docker, Okta
+  - [TicketPusher](https://github.com/jameselliothart/TicketPusher): C#, Blazor, .NET Core Web API, EF Core, Azure SQL Database, Docker, Okta
     - Deployed as a multi-container **Azure App Service** with **Docker Compose**
     - Utilizes **GitHub Actions** to push containers to **Azure Container Registry (ACR)**
   - [pytickets](https://github.com/jameselliothart/pytickets): Python, Flask, Bootstrap, PostgreSQL, Okta, Heroku
