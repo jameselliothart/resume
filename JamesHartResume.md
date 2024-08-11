@@ -256,7 +256,7 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 - Automated Azure DevOps release pipeline creation, achieving a 90% increase in deployment process efficiency
 - Migrated n-tier application environments to Azure Cloud, allowing the business to evaluate cost and time savings
 - Developed a web application to automate server information management, significantly improving software deployment processes
-- **Tools**: PowerShell, .NET/C#, RabbitMQ, Oracle, MSSQL, Azure DevOps, Chef, Ansible, Azure, TeamCity
+- **Tools**: PowerShell, .NET/C#, RabbitMQ, Oracle, MSSQL, Azure DevOps Services, Chef, Ansible, Azure, TeamCity
 
 <div class="job-title">Senior DevOps Engineer</div>
 **Quorum Business Solutions Inc.** – Houston, TX
@@ -264,7 +264,7 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 
 - Automated software deployment processes, reducing completion times from days to minutes and minimizing manual errors
 - Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
-- **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps, TeamCity
+- **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps Services, TeamCity
 
 <div class="job-title">Senior Software Implementation Consultant</div>
 **Quorum Business Solutions Inc.** – Houston, TX
