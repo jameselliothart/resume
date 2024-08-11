@@ -161,7 +161,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - **DevOps Tools**: Azure DevOps Services | Jenkins | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
 - **Cloud Platforms & Services**: MS Azure | Okta | Heroku
 - **Configuration Management**: Chef | Ansible | ARM Templates
-- **Application Monitoring**: New Relic | PRTG
+- **Application Monitoring**: ITRS | New Relic | PRTG
 - **Others**: Agile | Domain Driven Design | TDD | RESTful APIs
 </div>
 
@@ -217,7 +217,7 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 - Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
 - Enhanced system architecture to provide real-time data tracking through downstream systems, increasing transparency and reducing data errors by 20%
 - Designed and implemented a feature for same-day curve initialization, streamlining processes and eliminating the need for overnight processing
-- **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, Bitbucket, Jenkins
+- **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
 
 ### **Software Engineer II**
 **Bank of America** – Houston, TX
