@@ -93,10 +93,6 @@ section {
 }
 
 /* Achievements Section */
-.achievements ul {
-    list-style: none;
-    padding: 0;
-}
 
 .achievements li {
     margin-bottom: 6px;
