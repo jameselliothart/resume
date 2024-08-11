@@ -273,9 +273,8 @@ Specializing in Python, .NET (C#/F#), and JavaScript.
 *08/2008 – 05/2012*
 
 - GPA: 3.8, Cum Laude
+- Publication: [*Energy-minimizing unit vector fields*](https://msp.org/involve/2010/3-4/involve-v3-n4-p.pdf)
 - National Hispanic Merit Scholar
-- Publication: *Energy-minimizing unit vector fields* - [Involve: A Journal of Mathematics (Vol. 3, No. 4, 2010)](https://msp.org/involve/2010/3-4/involve-v3-n4-p.pdf)
-- Trustee Distinguished Scholarship
 </div>
 
 <div class="references">
