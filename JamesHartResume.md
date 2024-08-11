@@ -1,3 +1,123 @@
+<style>
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+
+/* Header */
+h1 {
+    font-size: 28px;
+    color: #2e6da4;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2, h3 {
+    margin-bottom: 8px;
+    color: #2e6da4;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 4px;
+}
+
+h2 {
+    font-size: 22px;
+    margin-top: 22px;
+}
+
+h3 {
+    font-size: 16px;
+    margin-top: 16px;
+}
+
+/* Contact Information */
+.contact-info {
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+/* Summary Section */
+.summary {
+    background-color: #f9f9f9;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.summary p {
+    margin: 0;
+}
+
+/* Skills Section */
+.skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skills li {
+    margin-bottom: 4px;
+}
+
+/* Projects Section */
+
+.projects > ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Achievements Section */
+.achievements ul {
+    list-style: none;
+    padding: 0;
+}
+
+.achievements li {
+    margin-bottom: 6px;
+}
+
+/* Recognitions Section */
+.recognitions ul {
+    list-style: none;
+    padding: 0;
+}
+
+.recognitions li {
+    margin-bottom: 6px;
+}
+
+/* Experience Section */
+.experience {
+    margin-bottom: 20px;
+}
+
+.experience ul {
+    margin-left: 20px;
+}
+
+.experience li {
+    margin-bottom: 6px;
+}
+
+/* Education Section */
+.education {
+    margin-bottom: 20px;
+}
+
+/* References Section */
+.references {
+    font-size: 12px;
+    color: #666;
+}
+
+</style>
 jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [GitHub Repos](https://github.com/jameselliothart) | [GitHub Blog](https://jameselliothart.github.io)
 
 ## Summary
