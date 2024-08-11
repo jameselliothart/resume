@@ -1,1 +1,1 @@
-pandoc ./JamesHartResume.md --pdf-engine=wkhtmltopdf -o "pdf/JamesHartResume_$(date +%Y%m%d).pdf"
+pandoc ./JamesHartResume.md --pdf-engine=wkhtmltopdf -o "pdf/JamesHartResume_$(date +%Y%m%d).pdf" -V margin-top=10 -V margin-left=20 -V margin-right=20 -V margin-bottom=10
