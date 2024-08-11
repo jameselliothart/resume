@@ -28,12 +28,10 @@ h2 {
 }
 
 /* Contact Information */
-.contact-info {
+.contact-info p {
     text-align: center;
-    margin-top: 4px;
-    margin-bottom: 20px;
-    font-size: 14px;
     color: #666;
+    margin: 0;
 }
 
 /* Section Styling */
@@ -129,10 +127,13 @@ section {
 
 </style>
 
-# James Hart
+# JAMES HART
 
 <div class="contact-info">
-jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [GitHub Repos](https://github.com/jameselliothart) | [GitHub Blog](https://jameselliothart.github.io)
+jeh@duck.com
+</div>
+<div class="contact-info">
+[LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [GitHub Repos](https://github.com/jameselliothart) | [GitHub Blog](https://jameselliothart.github.io)
 </div>
 
 <div class="summary">
