@@ -49,6 +49,7 @@ h3 {
     padding: 12px;
     border: 1px solid #ddd;
     border-radius: 4px;
+    text-align: center;
 }
 
 .summary p {
@@ -134,8 +135,6 @@ jeh@duck.com | [LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [Git
 </div>
 
 <div class="summary">
-## Summary
-
 Results-driven Senior Software Engineer with 10+ years of professional experience in full-stack development and DevOps across multiple industries.
 Proven track record in building scalable, high-performance applications using **Python**, **.NET (C#/F#)**, and **JavaScript** with expertise in both **SQL** and **NoSQL** databases.
 Strong background in implementing CI/CD pipelines using **Azure DevOps**, **Jenkins**, and **Ansible** to streamline deployment of microservices and multi-tier applications.
