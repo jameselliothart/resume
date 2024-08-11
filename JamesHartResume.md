@@ -136,6 +136,12 @@ section {
     margin-bottom: 20px;
 }
 
+.education .degree {
+    font-weight: bold;
+    font-size: 14px;
+    color: #333;
+}
+
 /* References Section */
 .references {
     font-size: 12px;
@@ -278,7 +284,8 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 <div class="education">
 ## Education
 
-### **Bachelor of Arts in Mathematics, Minor in Computational and Applied Math**
+<div class="degree">Bachelor of Arts in Mathematics, Minor in Computational and Applied Math</div>
+
 **Rice University** – Houston, Texas
 *08/2008 – 05/2012*
 
