@@ -166,9 +166,9 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 <div class="skills">
 ## Skills
 
-- **Languages**: .NET (C#/F#) | Python | JavaScript | Java | PowerShell | Go | PL/SQL | T-SQL
-- **Development Frameworks**: ASP.NET Core | Python Flask | React | Node.js | Spring Boot | Bootstrap
-- **Databases**: Microsoft SQL Server | Oracle | PostgreSQL | Redis | MongoDB
+- **Languages**: Python | .NET (C#/F#) | JavaScript | Java | PowerShell | Go | PL/SQL | T-SQL
+- **Development Frameworks**: ASP.NET Core | Python Flask | JavaScript: React, Node.js, Bootstrap, Angular | Spring Boot
+- **Databases**: SQL: Microsoft SQL Server, Oracle, PostgreSQL | NoSQL: Redis, MongoDB
 - **Messaging Systems**: AMPS | Redis Pub/Sub | RabbitMQ
 - **DevOps Tools**: Azure DevOps Services | Jenkins | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
 - **Cloud Platforms & Services**: MS Azure | Okta | Heroku
