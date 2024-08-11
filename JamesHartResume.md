@@ -151,6 +151,21 @@ Adept at driving process automation, mentoring teams, and continuously enhancing
 <div class="projects">
 ## Projects
 
+- Feldspar: a microservice-based market data visualizer with websocket architecture ([my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/))
+  - Technologies: docker, Node.js, ReactJS, C#, Java, nginx, Redis pub/sub and caching
+  - Deployed as a multi-container **Azure App Service** with **Docker Compose**
+- MediatrVsDU: a comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
+  - Technologies: .NET, MediatR
+- Advent of Code solutions: solutions to select Advent of Code (cf. [adventofcode.com](https://adventofcode.com)) puzzles ([my repo](https://github.com/jameselliothart/AdventOfCode2020))
+  - Technologies: .NET, Python
+- AoCSolver: a website to solve Advent of Code puzzles ([my repo](https://github.com/jameselliothart/AoCSolver))
+  - Technologies: Python, Javascript, Heroku
+- Ticket management solutions inspired by Jira using different technology stacks:
+  - [TicketPusher](https://github.com/jameselliothart/TicketPusher): C#, Blazor, Web API, EF Core, Azure SQL Database, Docker, Okta
+    - Deployed as a multi-container **Azure App Service** with **Docker Compose**
+    - Utilizes **GitHub Actions** to push containers to **Azure Container Registry (ACR)**
+  - [pytickets](https://github.com/jameselliothart/pytickets): Python, Flask, Bootstrap, PostgreSQL, Okta, Heroku
+  - [gotickets](https://github.com/jameselliothart/gotickets): Go, MongoDB, HTML
 </div>
 
 <div class="achievements">
