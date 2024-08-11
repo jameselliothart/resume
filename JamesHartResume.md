@@ -156,16 +156,18 @@ Specializing in Python, .NET, and JavaScript.
 - **Languages**: Python | .NET (C#/F#) | JavaScript | Java | PowerShell | Go | PL/SQL | T-SQL
 - **Development Frameworks**: ASP.NET Core | Python Flask | JavaScript: React, Node.js, Bootstrap, Angular | Spring Boot
 - **Databases**: SQL: Microsoft SQL Server, Oracle, PostgreSQL | NoSQL: Redis, MongoDB
-- **Messaging Systems**: AMPS | Redis Pub/Sub | RabbitMQ
-- **DevOps Tools**: Azure DevOps Services | Jenkins | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
-- **Cloud Platforms & Services**: MS Azure | Okta | Heroku
+- **Development Methodologies**: Agile | Domain Driven Design (DDD) | Test Driven Design (TDD)
+- **DevOps & CI/CD Tools**: Azure DevOps Services | Jenkins | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
+- **Cloud Platforms & Services**: Microsoft Azure | Okta | Heroku
 - **Configuration Management**: Chef | Ansible | ARM Templates
 - **Application Monitoring**: ITRS | New Relic | PRTG
-- **Others**: Agile | Domain Driven Design | TDD | RESTful APIs
+- **Messaging Systems**: AMPS | Redis Pub/Sub | RabbitMQ | RESTful APIs
+</div>
+
 </div>
 
 <div class="projects">
-## Projects
+## Projects & Interests
 
 - <div class="project-title">Feldspar</div>
   - Microservice-based market data visualizer with websocket architecture ([my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/))
