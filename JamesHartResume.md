@@ -68,6 +68,14 @@ h3 {
 
 /* Projects Section */
 
+.projects > ul > li > ul {
+    list-style: disc;
+}
+
+.projects > ul > li > ul > li > ul {
+    list-style: circle;
+}
+
 .projects > ul {
     list-style: none;
     padding: 0;
