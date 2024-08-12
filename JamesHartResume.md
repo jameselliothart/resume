@@ -140,7 +140,7 @@ section {
 jeh@duck.com
 </div>
 <div class="contact-info">
-[LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [GitHub Repos](https://github.com/jameselliothart) | [GitHub Blog](https://jameselliothart.github.io)
+[LinkedIn](http://www.linkedin.com/in/james-hart-3543664b) | [GitHub Repos](https://github.com/jameselliothart) | [GitHub Blog](https://jameselliothart.github.io) | [GitHub Resume](https://github.com/jameselliothart/resume/blob/master/pdf/{{FILENAME}})
 </div>
 
 <div class="summary">
