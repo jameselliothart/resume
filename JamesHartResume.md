@@ -166,13 +166,14 @@ Specializing in Python, .NET, and JavaScript.
 
 <div class="achievements">
 ## Honors & Achievements
-- Built an Angular web application backed by a Python-Flask API middle tier to track server information in order to support infrastructure and application deployment automation and visibility
-- Developed Pester scripts utilized by company-wide development teams to validate application configurations for software upgrades, reducing manual effort by 99% (2 days to 30 seconds) and minimizing troubleshooting time
-- Automated Hyper-V Windows VM creation and configuration through PowerShell and Chef, reducing setup time by 98% (2-4 days to 30 minutes)
-- Automated software deployment processes via PowerShell including inserting XML data into a database and configuration of IIS websites and application pools, decreasing setup time by 98% (4 hours to 5 minutes)
+
+- Built an Angular web application backed by a Python-Flask API to automate server information management, significantly improving software deployment processes.
+- Developed Pester scripts adopted by development teams company-wide to automate validation of application configurations during software upgrades, reducing manual effort by 99% (from 2 days to 30 seconds) and significantly minimizing troubleshooting time.
+- Automated the creation and configuration of Hyper-V Windows VMs using PowerShell and Chef, reducing setup time by 98% (from 2-4 days to 30 minutes).
+- Automated software deployment processes using PowerShell including inserting XML data into databases and IIS configuration, decreasing setup time by 98% (4 hours to 5 minutes).
 - Recognized twice at the company level for exceptional impact as a senior member of a small team, significantly improving company-wide development processes and setting new standards for efficiency and collaboration.
 - Recognized for excellence in managing complex release processes by ensuring comprehensive and compliant documentation that met external regulatory requirements, streamlining workflows, and enhancing team efficiency.
-- Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
+- Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart.
 </div>
 
 <div class="experience">
