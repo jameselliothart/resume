@@ -211,7 +211,7 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Collaborated with clients to solve their biggest technological challenges and contribute to a culture of continuous learning and improvement
+- Collaborated with clients to solve their biggest technological challenges and contributed to a culture of continuous learning and improvement
 - Supported a large-scale Microsoft Dynamics CRM installation and surrounding custom applications, ensuring system stability and performance
 - Led company-wide tutorial labs covering DevOps tools, concepts, best practices and enhancing team skills in CI/CD processes for junior members
 - **Tools**: PowerShell, MSSQL, Jenkins, Octopus Deploy, New Relic, PRTG
@@ -238,7 +238,7 @@ Specializing in Python, .NET, and JavaScript.
 - Automated and standardized internal software deployment processes, reducing completion times from days to minutes and speeding up software delivery timelines
 - Supported and enhanced internal processes, minimizing manual errors and improving process reliability
 - Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
-- Deploy and troubleshoot code and database installations in clients’ non-Production and Production environments
+- Deployed and debugged application and database installations in clients’ non-Production and Production environments
 - **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps Services, TeamCity
 
 <div class="job-title">Senior Software Implementation Consultant</div>
@@ -259,7 +259,7 @@ Specializing in Python, .NET, and JavaScript.
 </p>
 
 - Implemented PowerTax software for major corporate clients, providing expertise in utility tax accounting and Oracle SQL scripting
-- Coordinate script migrations and database management with clients’ IT
+- Coordinated script migrations and database management with clients’ IT
 - **Tools**: Oracle SQL
 </div>
 
