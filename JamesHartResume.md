@@ -157,7 +157,7 @@ Specializing in Python, .NET, and JavaScript.
 - **Development Frameworks**: ASP.NET Core | Python Flask | JavaScript: React, Node.js, Bootstrap, Angular | Spring Boot
 - **Databases**: SQL: Microsoft SQL Server, Oracle, PostgreSQL | NoSQL: Redis, MongoDB
 - **Development Methodologies**: Agile | Domain Driven Design (DDD) | Test Driven Design (TDD)
-- **DevOps & CI/CD Tools**: Azure DevOps Services | Jenkins | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
+- **DevOps & CI/CD Tools**: Azure DevOps Services | Jenkins | GitHub Actions | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
 - **Cloud Platforms & Services**: Microsoft Azure | Okta | Heroku
 - **Configuration Management**: Chef | Ansible | ARM Templates
 - **Application Monitoring**: ITRS | New Relic | PRTG
