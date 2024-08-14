@@ -146,7 +146,7 @@ jeh@duck.com
 <div class="summary">
 Senior software engineer with 10+ years of professional experience in full-stack development and DevOps practices in agile environments across multiple industries.
 Proven track record in building a wide range of scalable, high-performance applications and improving on existing system architecture.
-Extensive automation experience and strong background implementing CI/CD pipelines and secure Cloud hosted environments to streamline deployment of microservices and multi-tier applications.
+Extensive automation experience. Strong background implementing CI/CD pipelines and secure Cloud hosted environments to streamline deployment of microservices and multi-tier applications.
 Specializing in Python, .NET, and JavaScript.
 </div>
 
@@ -167,13 +167,13 @@ Specializing in Python, .NET, and JavaScript.
 <div class="achievements">
 ## Honors & Achievements
 
-- Built an Angular web application backed by a Python-Flask API to automate server information management, significantly improving software deployment processes.
-- Developed Pester scripts adopted by development teams company-wide to automate validation of application configurations during software upgrades, reducing manual effort by 99% (from 2 days to 30 seconds) and significantly minimizing troubleshooting time.
-- Automated the creation and configuration of Hyper-V Windows VMs using PowerShell and Chef, reducing setup time by 98% (from 2-4 days to 30 minutes).
-- Automated software deployment processes using PowerShell including inserting XML data into databases and IIS configuration, decreasing setup time by 98% (4 hours to 5 minutes).
-- Recognized twice at the company level for exceptional impact as a senior member of a small team, significantly improving company-wide development processes and setting new standards for efficiency and collaboration.
-- Recognized for excellence in managing complex release processes by ensuring comprehensive and compliant documentation that met external regulatory requirements, streamlining workflows, and enhancing team efficiency.
-- Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart.
+- Built an Angular web application backed by a Python-Flask API to automate server information management, significantly improving software deployment processes
+- Developed Pester scripts adopted by development teams company-wide to automate validation of application configurations during software upgrades, reducing manual effort by 99% (from 2 days to 30 seconds) and significantly minimizing troubleshooting time
+- Automated the creation and configuration of Hyper-V Windows VMs using PowerShell and Chef, reducing setup time by 98% (from 2-4 days to 30 minutes)
+- Automated software deployment processes using PowerShell including inserting XML data into databases and IIS configuration, decreasing setup time by 98% (4 hours to 5 minutes)
+- Recognized twice at the company level for exceptional impact as a senior member of a small team, significantly improving company-wide development processes and setting new standards for efficiency and collaboration
+- Recognized for excellence in managing complex release processes by ensuring comprehensive and compliant documentation that met external regulatory requirements, streamlining workflows, and enhancing team efficiency
+- Featured interviewee on Pluralsight's [All Hands on Tech Podcast Episode 056](https://www.pluralsight.com/resource-center/podcasts/056-upskilling-james-hart) – Upskilling Tips and Tricks with Developer James Hart
 </div>
 
 <div class="experience">
