@@ -153,7 +153,7 @@ Specializing in Python, .NET, and JavaScript.
 <div class="skills">
 ## Skills
 
-- **Languages**: Python | .NET (C#/F#) | JavaScript | Java | PowerShell | Go | PL/SQL | T-SQL
+- **Languages**: Python | .NET (C#/F#) | JavaScript | Rust | Java | PowerShell | Go | PL/SQL | T-SQL
 - **Development Frameworks**: ASP.NET Core | Python Flask | JavaScript: React, Node.js, Bootstrap, Angular | Spring Boot
 - **Databases**: SQL: Microsoft SQL Server, Oracle, PostgreSQL | NoSQL: Redis, MongoDB
 - **Development Methodologies**: Agile | Domain Driven Design (DDD) | Test Driven Design (TDD)
