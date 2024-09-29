@@ -1,0 +1,3 @@
+- <div class="project-title">AoCSolver</div>
+  - A website to solve Advent of Code puzzles ([my repo](https://github.com/jameselliothart/AoCSolver))
+  - **Technologies**: Python, Javascript, Heroku
