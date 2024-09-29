@@ -270,7 +270,7 @@ Specializing in Python, .NET, and JavaScript.
   - Microservice-based market data visualizer with websocket architecture ([my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/))
   - **Technologies**: docker, Node.js, ReactJS, C#, Java, nginx, Redis pub/sub and caching
   - Deployed as a multi-container **Azure App Service** with **Docker Compose**
-- <div class="project-title">MediatrVsDU</div>
+- <div class="project-title">MediatR vs Discriminated Unions</div>
   - A comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
   - **Technologies**: .NET, MediatR
 - <div class="project-title">Advent of Code solutions</div>
