@@ -273,12 +273,12 @@ Specializing in Python, .NET, and JavaScript.
 - <div class="project-title">MediatR vs Discriminated Unions</div>
   - A comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
   - **Technologies**: .NET, MediatR
+- <div class="project-title">RsTodo</div>
+  - A file and SQLite based task tracker ([my repo](https://github.com/jameselliothart/RsTodo))
+  - **Technologies**: Rust, SQLite
 - <div class="project-title">Advent of Code solutions</div>
   - Solutions to select Advent of Code (cf. [adventofcode.com](https://adventofcode.com)) puzzles ([my repo](https://github.com/jameselliothart/AdventOfCode2020))
   - **Technologies**: .NET, Python
-- <div class="project-title">AoCSolver</div>
-  - A website to solve Advent of Code puzzles ([my repo](https://github.com/jameselliothart/AoCSolver))
-  - **Technologies**: Python, Javascript, Heroku
 - <div class="project-title">Ticket management sites</div>
   - Websites inspired by Jira using different technology stacks
   - [TicketPusher](https://github.com/jameselliothart/TicketPusher): C#, Blazor, .NET Core Web API, EF Core, Azure SQL Database, Docker, Okta
