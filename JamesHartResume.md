@@ -238,7 +238,7 @@ Specializing in Python, .NET, and JavaScript.
 - Automated and standardized internal software deployment processes, reducing completion times from days to minutes and speeding up software delivery timelines
 - Supported and enhanced internal processes, minimizing manual errors and improving process reliability
 - Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
-- Deployed and debugged application and database installations in clients’ non-Production and Production environments
+- Deployed and debugged application and database installations in clients' non-Production and Production environments
 - **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps Services, TeamCity
 
 <div class="job-title">Senior Software Implementation Consultant</div>
@@ -253,13 +253,13 @@ Specializing in Python, .NET, and JavaScript.
 - **Tools**: Oracle, .NET/C#
 
 <div class="job-title">Software Implementation Consultant</div>
-<p style="text-align:left;">**PowerPlan Inc.** – Atlanta, Georgia
+<p style="text-align:left;">**PowerPlan Inc.** – Atlanta, GA
   <span style="float:right;">*06/2012 – 03/2014*
   </span>
 </p>
 
 - Implemented PowerTax software for major corporate clients, providing expertise in utility tax accounting and Oracle SQL scripting
-- Coordinated script migrations and database management with clients’ IT
+- Coordinated script migrations and database management with clients' IT
 - **Tools**: Oracle SQL
 </div>
 
