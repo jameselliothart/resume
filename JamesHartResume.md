@@ -185,10 +185,10 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Enhanced and supported microservice-based commodities market data management applications, ensuring data accuracy and availability for downstream systems
+- Enhanced and supported microservice-based commodities market data management applications for Oil, Emissions, and Natural Gas desks, ensuring data accuracy and availability to downstream Risk and PnL systems
 - Developed curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
+- Led the successful transition of the Emissions and Natural Gas desks from spreadsheets to a robust price curve marking application, resulting in increased efficiency and data accuracy
 - Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
-- Led the successful transition of a key segment of users from spreadsheets to a robust curve marking application, resulting in increased efficiency and data accuracy
 - Improved system architecture to provide real-time data tracking through downstream systems, increasing transparency and reducing data errors by 20%
 - Designed and implemented a feature for same-day curve initialization, streamlining processes and eliminating the need for overnight processing
 - **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
