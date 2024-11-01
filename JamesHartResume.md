@@ -185,12 +185,12 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Enhanced and supported microservice-based commodities market data management applications for Oil, Emissions, and Natural Gas desks, ensuring data accuracy and availability to downstream Risk and PnL systems
-- Developed curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
-- Led the successful transition of the Emissions and Natural Gas desks from spreadsheets to a robust price curve marking application, resulting in increased efficiency and data accuracy
+- Designed and developed scalable and resilient microservice-based systems for commodities market data management contributing to continual, iterative improvements for multiple trading desks
+- Executed software solutions for curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
+- Performed technical troubleshooting for and led the successful transition of key trading desks from spreadsheets to a robust price curve marking application, resulting in increased efficiency and data accuracy
 - Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
-- Improved system architecture to provide real-time data tracking through downstream systems, increasing transparency and reducing data errors by 20%
-- Designed and implemented a feature for same-day curve initialization, streamlining processes and eliminating the need for overnight processing
+- Developed visualizations and reporting for real-time data tracking through downstream systems, increasing transparency in service of continuous improvement of the curve marking application
+- Created secure code for same-day curve initialization, allowing synchronous downstream system use and eliminating the need for overnight processing
 - **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
 
 <div class="job-title">Software Engineer II</div>
@@ -199,9 +199,9 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Spearheaded the development of key features to retire a legacy application, coordinating with cross-functional teams and delivering the project under a tight year-end deadline, resulting in reduced maintenance costs and improved system performance
+- Produced architecture and design artifacts necessary to retire a legacy application, coordinating with cross-functional teams to ensure design constraints were met by the software code development
 - Enhanced middle-office reconciliation applications, reducing data entry time from weeks to minutes and improving operational efficiency
-- Resolved recurring erroneous alerts in an Exchange limit monitoring application, restoring system reliability and user trust
+- Identified hidden problems and patterns in data causing recurring erroneous alerts in an Exchange limit monitoring application, driving improvements to system architecture which restored system reliability and user trust
 - Developed an ETL feed mapping Exchange accounts to trader books, enabling accurate position tracking and compliance with regulatory limits
 - **Tools**: ASP.NET/C#, MSSQL, Python (Quartz), BofA NoSQL DB, Bitbucket, Jenkins, Ansible
 
@@ -213,7 +213,7 @@ Specializing in Python, .NET, and JavaScript.
 
 - Collaborated with clients to solve their biggest technological challenges and contributed to a culture of continuous learning and improvement
 - Supported a large-scale Microsoft Dynamics CRM installation and surrounding custom applications, ensuring system stability and performance
-- Led company-wide tutorial labs covering DevOps tools, concepts, best practices and enhancing team skills in CI/CD processes for junior members
+- Contributed to a DevOps community of practice and led events exploring new and emerging technologies, concepts, best practices and enhancing team skills in CI/CD processes for junior members
 - **Tools**: PowerShell, MSSQL, Jenkins, Octopus Deploy, New Relic, PRTG
 
 <div class="job-title">Senior Software Operations Engineer</div>
@@ -235,7 +235,7 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Automated and standardized internal software deployment processes, reducing completion times from days to minutes and speeding up software delivery timelines
+- Automated and standardized internal software deployment processes, reducing completion times from days to minutes
 - Supported and enhanced internal processes, minimizing manual errors and improving process reliability
 - Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
 - Deployed and debugged application and database installations in clients' non-Production and Production environments
@@ -248,7 +248,7 @@ Specializing in Python, .NET, and JavaScript.
 </p>
 
 - Implemented Quorum Land Suite software upgrade for major clients, leading small teams across multiple successful project completions
-- Managed business and IT expectations throughout the project lifecycle from internal development to Production cutover and transition to long-term product software maintenance
+- Managed business and IT expectations throughout the project lifecycle from internal development through transition to long-term maintenance
 - Developed an Oracle database package to streamline legacy data migration, reducing upgrade timelines from months to weeks
 - **Tools**: Oracle, .NET/C#
 
