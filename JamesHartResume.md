@@ -188,9 +188,9 @@ Specializing in Python, .NET, and JavaScript.
 - Designed and developed scalable and resilient microservice-based systems for commodities market data management contributing to continual, iterative improvements for multiple trading desks
 - Executed software solutions for curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
 - Performed technical troubleshooting for and led the successful transition of key trading desks from spreadsheets to a robust price curve marking application, resulting in increased efficiency and data accuracy
-- Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
 - Developed visualizations and reporting for real-time data tracking through downstream systems, increasing transparency in service of continuous improvement of the curve marking application
 - Created secure code for same-day curve initialization, allowing synchronous downstream system use and eliminating the need for overnight processing
+- Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
 - **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
 
 <div class="job-title">Software Engineer II</div>
