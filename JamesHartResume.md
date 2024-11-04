@@ -144,7 +144,7 @@ jeh@duck.com
 </div>
 
 <div class="summary">
-Senior software engineer with 10+ years of professional experience in full-stack development and DevOps practices in agile environments across finance and other industries.
+Senior software engineer with 10+ years of professional experience in full-stack development and DevOps practices in Agile environments across finance and other industries.
 Proven track record in building a wide range of scalable, high-performance applications and improving on existing system architecture.
 Extensive automation experience. Strong background implementing CI/CD pipelines and secure Cloud hosted environments to streamline deployment of microservices and multi-tier applications.
 Specializing in Python, .NET, and JavaScript.
@@ -168,7 +168,7 @@ Specializing in Python, .NET, and JavaScript.
 ## Honors & Achievements
 
 - Built an Angular web application backed by a Python-Flask API to automate server information management, significantly improving software deployment processes
-- Developed Pester scripts adopted by development teams company-wide to automate validation of application configurations during software upgrades, reducing manual effort by 99% (from 2 days to 30 seconds) and significantly minimizing troubleshooting time
+- Developed Pester PowerShell scripts adopted by development teams company-wide to automate validation of application configurations during software upgrades, reducing manual effort by 99% (from 2 days to 30 seconds) and significantly minimizing troubleshooting time
 - Automated the creation and configuration of Hyper-V Windows VMs using PowerShell and Chef, reducing setup time by 98% (from 2-4 days to 30 minutes)
 - Automated software deployment processes using PowerShell including inserting XML data into databases and IIS configuration, decreasing setup time by 98% (4 hours to 5 minutes)
 - Recognized twice at the company level for exceptional impact as a senior member of a small team, significantly improving company-wide development processes and setting new standards for efficiency and collaboration
@@ -185,12 +185,12 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Designed and developed scalable and resilient microservice-based systems for commodities market data management contributing to continual, iterative improvements for multiple trading desks
-- Executed software solutions for curve marking features that eliminated dependency on spreadsheets, improving data integrity and user efficiency
-- Performed technical troubleshooting for and led the successful transition of key trading desks from spreadsheets to a robust price curve marking application, resulting in increased efficiency and data accuracy
-- Developed visualizations and reporting for real-time data tracking through downstream systems, increasing transparency in service of continuous improvement of the curve marking application
-- Created secure code for same-day curve initialization, allowing synchronous downstream system use and eliminating the need for overnight processing
-- Mentored junior team members in best practices for modern software engineering, fostering a collaborative and innovative team culture
+- Architect and develop scalable and resilient microservice-based systems for commodities market data management contributing to continual, iterative improvements for multiple trading desks
+- Report on feature development process statuses and developments for curve marking features that eliminate dependency on spreadsheets, improving data integrity and user efficiency
+- Offer advanced technical support to key trading desk stakeholders for their successful transition to a robust price curve marking application, resulting in increased efficiency and data accuracy
+- Develop visualizations and reporting for real-time data tracking through downstream systems, increasing transparency in service of continuous improvement of the curve marking application
+- Create secure code for same-day curve initialization, allowing synchronous downstream system use and eliminating the need for overnight processing
+- Mentor and guide junior developers in best practices for modern software engineering, fostering a culture of continuous learning and improvement
 - **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
 
 <div class="job-title">Software Engineer II</div>
@@ -199,9 +199,9 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Produced architecture and design artifacts necessary to retire a legacy application, coordinating with cross-functional teams to ensure design constraints were met by the software code development
-- Enhanced middle-office reconciliation applications, reducing data entry time from weeks to minutes and improving operational efficiency
-- Identified hidden problems and patterns in data causing recurring erroneous alerts in an Exchange limit monitoring application, driving improvements to system architecture which restored system reliability and user trust
+- Lead the analysis of requirements and feature development necessary to retire a legacy application, coordinating with cross-functional teams and ensuring seamless collaboration
+- Identified and mitigated technical risks and issues across multiple applications, providing strategic solutions
+- Debugged and maintained an Exchange limit monitoring application, ensuring optimal performance and reliability to end users
 - Developed an ETL feed mapping Exchange accounts to trader books, enabling accurate position tracking and compliance with regulatory limits
 - **Tools**: ASP.NET/C#, MSSQL, Python (Quartz), BofA NoSQL DB, Bitbucket, Jenkins, Ansible
 
@@ -236,7 +236,7 @@ Specializing in Python, .NET, and JavaScript.
 </p>
 
 - Automated and standardized internal software deployment processes, reducing completion times from days to minutes
-- Supported and enhanced internal processes, minimizing manual errors and improving process reliability
+- Drove the adoption of best practices in software development and automation, minimizing manual errors and improving process reliability
 - Designed and implemented a standardized SQL script template for managing database settings, streamlining database administration across environments and data refreshes
 - Deployed and debugged application and database installations in clients' non-Production and Production environments
 - **Tools**: PowerShell, .NET/C#, Oracle, MSSQL, Azure DevOps Services, TeamCity
@@ -248,7 +248,7 @@ Specializing in Python, .NET, and JavaScript.
 </p>
 
 - Implemented Quorum Land Suite software upgrade for major clients, leading small teams across multiple successful project completions
-- Managed business and IT expectations throughout the project lifecycle from internal development through transition to long-term maintenance
+- Provided robust time and effort estimations throughout the project lifecycle from internal development through transition to long-term maintenance
 - Developed an Oracle database package to streamline legacy data migration, reducing upgrade timelines from months to weeks
 - **Tools**: Oracle, .NET/C#
 
