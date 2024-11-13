@@ -185,11 +185,11 @@ Specializing in Python, .NET, and JavaScript.
   </span>
 </p>
 
-- Architect and develop scalable and resilient microservice-based systems for commodities market data management contributing to continual, iterative improvements for multiple trading desks
+- Architect and develop scalable and resilient microservice-based systems for commodities market data management contributing to continual, iterative improvements for Oil, Natural Gas, and Emissions trading desks
+- Facilitate ticking market data flow from Commodity Exchanges (e.g. NYMEX) to Front Office traders
 - Report on feature development process statuses and developments for curve marking features that eliminate dependency on spreadsheets, improving data integrity and user efficiency
 - Offer advanced technical support to key trading desk stakeholders for their successful transition to a robust price curve marking application, resulting in increased efficiency and data accuracy
 - Develop visualizations and reporting for real-time data tracking through downstream systems, increasing transparency in service of continuous improvement of the curve marking application
-- Create secure code for same-day curve initialization, allowing synchronous downstream system use and eliminating the need for overnight processing
 - Mentor and guide junior developers in best practices for modern software engineering, fostering a culture of continuous learning and improvement
 - **Tools**: Python (Quartz), React/Redux, AMPS Messaging, BofA NoSQL DB, ITRS, Bitbucket, Jenkins
 
