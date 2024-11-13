@@ -200,7 +200,7 @@ Specializing in Python, .NET, and JavaScript.
 </p>
 
 - Lead the analysis of requirements and feature development necessary to retire a legacy application, coordinating with cross-functional teams and ensuring seamless collaboration
-- Identified and mitigated technical risks and issues across multiple applications, providing strategic solutions
+- Enhanced middle-office reconciliation applications, reducing data entry time from weeks to minutes and improving operational efficiency
 - Debugged and maintained an Exchange limit monitoring application, ensuring optimal performance and reliability to end users
 - Developed an ETL feed mapping Exchange accounts to trader books, enabling accurate position tracking and compliance with regulatory limits
 - **Tools**: ASP.NET/C#, MSSQL, Python (Quartz), BofA NoSQL DB, Bitbucket, Jenkins, Ansible
