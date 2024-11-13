@@ -161,7 +161,7 @@ Specializing in Python, .NET, and JavaScript.
 - **Cloud Platforms & Services**: Microsoft Azure | Okta | Heroku
 - **Configuration Management**: Chef | Ansible | ARM Templates
 - **Application Monitoring**: ITRS | New Relic | PRTG
-- **Messaging Systems**: AMPS | Redis Pub/Sub | RabbitMQ | RESTful APIs
+- **Messaging Systems and Protocols**: AMPS | Redis Pub/Sub | RabbitMQ | RESTful APIs | gRPC
 </div>
 
 <div class="achievements">
