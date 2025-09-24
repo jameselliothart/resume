@@ -7,6 +7,9 @@ body {
     margin: 0;
     padding: 0;
     font-size: 12px;
+    max-width: 100%;
+    box-sizing: border-box;
+    overflow-x: hidden;
 }
 
 /* Header */
@@ -67,6 +70,7 @@ section {
 
 .projects > ul > li > ul {
     list-style: disc;
+    margin-left: 20px;
 }
 
 .projects > ul > li > ul > li > ul {
@@ -104,7 +108,7 @@ section {
 }
 
 .experience ul {
-    margin-left: 20px;
+    margin-left: 15px;
 }
 
 .experience li {
