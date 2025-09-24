@@ -157,21 +157,21 @@ Specializing in Python, .NET, and JavaScript.
 <div class="skills">
 ## Skills
 
-- **Languages**: Python | .NET (C#/F#) | JavaScript | Rust | Java | PowerShell | Go | PL/SQL | T-SQL
+- **Languages**: Python | .NET (C#/F#) | JavaScript | Java | PowerShell | Go | PL/SQL | T-SQL
 - **Development Frameworks**: ASP.NET Core | Python Flask | JavaScript: React, Node.js, Bootstrap, Angular | Spring Boot
 - **Databases**: SQL: Microsoft SQL Server, Oracle, PostgreSQL | NoSQL: Redis, MongoDB
 - **Development Methodologies**: Agile | Domain Driven Design (DDD) | Test Driven Design (TDD)
-- **DevOps & CI/CD Tools**: Azure DevOps Services | Jenkins | GitHub Actions | Docker | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
+- **DevOps & CI/CD Tools**: Azure DevOps Services | Jenkins | GitHub Actions | Docker | Kubernetes | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
 - **Cloud Platforms & Services**: Microsoft Azure | Okta | Heroku
 - **Configuration Management**: Chef | Ansible | ARM Templates
-- **Application Monitoring**: ITRS | New Relic | PRTG
+- **Application Monitoring**: Jaeger | OpenTelemetry | ITRS | New Relic | PRTG
 - **Messaging Systems and Protocols**: AMPS | Redis Pub/Sub | RabbitMQ | RESTful APIs | gRPC
 </div>
 
 <div class="achievements">
 ## Honors & Achievements
 
-- Built an Angular web application backed by a Python-Flask API to automate server information management, significantly improving software deployment processes
+- Designed and implemented a market data validation service to automate extraction, validation, and notification of invalid price curves, including robust error handling, configurable escalation scheduling, and integration with multiple notifications channels for timely issue escalation and reporting
 - Developed Pester PowerShell scripts adopted by development teams company-wide to automate validation of application configurations during software upgrades, reducing manual effort by 99% (from 2 days to 30 seconds) and significantly minimizing troubleshooting time
 - Automated the creation and configuration of Hyper-V Windows VMs using PowerShell and Chef, reducing setup time by 98% (from 2-4 days to 30 minutes)
 - Automated software deployment processes using PowerShell including inserting XML data into databases and IIS configuration, decreasing setup time by 98% (4 hours to 5 minutes)
@@ -270,26 +270,21 @@ Specializing in Python, .NET, and JavaScript.
 <div class="projects">
 ## Projects & Interests
 
-- <div class="project-title">Feldspar</div>
-  - Microservice-based market data visualizer with websocket architecture ([my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/))
-  - **Technologies**: docker, Node.js, ReactJS, C#, Java, nginx, Redis pub/sub and caching
-  - Deployed as a multi-container **Azure App Service** with **Docker Compose**
+- <div class="project-title">MusicMan</div>
+  - A music data management app demonstrating full stack integration ([my repo](https://github.com/jameselliothart/MusicMan))
+  - **Technologies**: .NET C#, TypeScript/React, PostgreSQL, Docker
+- <div class="project-title">InvoiceWiz</div>
+  - A microservice-based invoice generator with OpenTelemetry tracing ([my repo](https://github.com/jameselliothart/InvoiceWiz))
+  - **Technologies**: .NET C#, Vue.js, MongoDb, RabbitMQ, Azure Blob Storage, docker, Kubernetes (k8s), Jaeger, OpenTelemetry, gRPC
+- <div class="project-title">FsTodo</div>
+  - A command line task tracking and reporting tool with SQLite persistence and associated tutorial / write-up ([my repo](https://github.com/jameselliothart/FsTodo) / [my tutorial](https://jameselliothart.github.io/todo-kata-fsharp-part-1))
+  - **Technologies**: .NET F#, SQLite
 - <div class="project-title">MediatR vs Discriminated Unions</div>
   - A comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
-  - **Technologies**: .NET, MediatR
-- <div class="project-title">RsTodo</div>
-  - A command line task tracking and reporting tool with file and SQLite persistence ([my repo](https://github.com/jameselliothart/RsTodo))
-  - **Technologies**: Rust, SQLite
-- <div class="project-title">Advent of Code solutions</div>
-  - Solutions to select Advent of Code (cf. [adventofcode.com](https://adventofcode.com)) puzzles ([my repo](https://github.com/jameselliothart/AdventOfCode2020))
-  - **Technologies**: .NET, Python
-- <div class="project-title">Ticket management sites</div>
-  - Websites inspired by Jira using different technology stacks
-  - [TicketPusher](https://github.com/jameselliothart/TicketPusher): C#, Blazor, .NET Core Web API, EF Core, Azure SQL Database, Docker, Okta
-    - Deployed as a multi-container **Azure App Service** with **Docker Compose**
-    - Utilizes **GitHub Actions** to push containers to **Azure Container Registry (ACR)**
-  - [pytickets](https://github.com/jameselliothart/pytickets): Python, Flask, Bootstrap, PostgreSQL, Okta, Heroku
-  - [gotickets](https://github.com/jameselliothart/gotickets): Go, MongoDB, HTML
+  - **Technologies**: .NET C#/F#, MediatR
+- <div class="project-title">TicketPusher</div>
+  - Ticket management website inspired by Jira utilizing GitHub Actions to deploy as a multi-container Azure App Service via an Azure Container Registry ([my repo](https://github.com/jameselliothart/TicketPusher))
+  - **Technologies**: C#, Blazor, .NET Core Web API, EF Core, Azure SQL Database, Docker Compose, Okta
 </div>
 
 <div class="education">
