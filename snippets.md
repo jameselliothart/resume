@@ -7,3 +7,6 @@
   - Microservice-based market data visualizer with websocket architecture ([my repo](https://github.com/jameselliothart/feldspar) / [Azure site](https://feldspar.azurewebsites.net/))
   - **Technologies**: docker, Node.js, ReactJS, C#, Java, nginx, Redis pub/sub and caching
   - Deployed as a multi-container **Azure App Service** with **Docker Compose**
+- <div class="project-title">FsTodo</div>
+  - A command line task tracking and reporting tool with SQLite persistence and associated tutorial / write-up ([my repo](https://github.com/jameselliothart/FsTodo) / [my tutorial](https://jameselliothart.github.io/todo-kata-fsharp-part-1))
+  - **Technologies**: .NET F#, SQLite

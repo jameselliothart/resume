@@ -276,15 +276,12 @@ Specializing in Python, .NET, and JavaScript.
 - <div class="project-title">InvoiceWiz</div>
   - A microservice-based invoice generator with OpenTelemetry tracing ([my repo](https://github.com/jameselliothart/InvoiceWiz))
   - **Technologies**: .NET C#, Vue.js, MongoDb, RabbitMQ, Azure Blob Storage, docker, Kubernetes (k8s), Jaeger, OpenTelemetry, gRPC
-- <div class="project-title">FsTodo</div>
-  - A command line task tracking and reporting tool with SQLite persistence and associated tutorial / write-up ([my repo](https://github.com/jameselliothart/FsTodo) / [my tutorial](https://jameselliothart.github.io/todo-kata-fsharp-part-1))
-  - **Technologies**: .NET F#, SQLite
 - <div class="project-title">MediatR vs Discriminated Unions</div>
   - A comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
   - **Technologies**: .NET C#/F#, MediatR
 - <div class="project-title">TicketPusher</div>
-  - Ticket management website inspired by Jira utilizing GitHub Actions to deploy as a multi-container Azure App Service via an Azure Container Registry ([my repo](https://github.com/jameselliothart/TicketPusher))
-  - **Technologies**: C#, Blazor, .NET Core Web API, EF Core, Azure SQL Database, Docker Compose, Okta
+  - Ticket management website inspired by Jira utilizing GitHub Actions to deploy as a multi-container Azure App Service via an ACR ([my repo](https://github.com/jameselliothart/TicketPusher))
+  - **Technologies**: C#, Blazor, .NET Core Web API, EF Core, Azure SQL Database, Docker Compose, Azure Container Registry (ACR), Okta
 </div>
 
 <div class="education">
