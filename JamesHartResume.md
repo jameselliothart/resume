@@ -164,7 +164,7 @@ Specializing in Python, .NET, and JavaScript.
 - **DevOps & CI/CD Tools**: Azure DevOps Services | Jenkins | GitHub Actions | Docker | Kubernetes | Git | TFS | Bitbucket | Octopus Deploy | TeamCity | Jira
 - **Cloud Platforms & Services**: Microsoft Azure | Okta | Heroku
 - **Configuration Management**: Chef | Ansible | ARM Templates
-- **Application Monitoring**: Jaeger | OpenTelemetry | ITRS | New Relic | PRTG
+- **Application Monitoring**: Jaeger | OpenTelemetry | Grafana | ITRS | New Relic | PRTG
 - **Messaging Systems and Protocols**: AMPS | Redis Pub/Sub | RabbitMQ | RESTful APIs | gRPC
 </div>
 
@@ -274,8 +274,8 @@ Specializing in Python, .NET, and JavaScript.
   - A music data management app demonstrating full stack integration ([my repo](https://github.com/jameselliothart/MusicMan))
   - **Technologies**: .NET C#, TypeScript/React, PostgreSQL, Docker
 - <div class="project-title">InvoiceWiz</div>
-  - A microservice-based invoice generator with OpenTelemetry tracing ([my repo](https://github.com/jameselliothart/InvoiceWiz))
-  - **Technologies**: .NET C#, Vue.js, MongoDb, RabbitMQ, Azure Blob Storage, docker, Kubernetes (k8s), Jaeger, OpenTelemetry, gRPC
+  - A microservice-based invoice generator with OpenTelemetry tracing and log aggregation ([my repo](https://github.com/jameselliothart/InvoiceWiz))
+  - **Technologies**: .NET C#, Vue.js, MongoDb, RabbitMQ, Azure Blob Storage, docker, Kubernetes (k8s), Jaeger, OpenTelemetry, gRPC, Grafana
 - <div class="project-title">MediatR vs Discriminated Unions</div>
   - A comparison of the C# MediatR library with F# Discriminated Unions ([my repo](https://github.com/jameselliothart/MediatrVsDU) / my write-up: [mediatr-vs-discriminated-unions](https://jameselliothart.github.io/mediatr-vs-discriminated-unions.html))
   - **Technologies**: .NET C#/F#, MediatR
